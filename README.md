@@ -10,3 +10,7 @@ as our expected result = 1.202056903159594 ( error = expected - calculated)
 processes
 - All processes (including master process) are doing their part of calculation
 - we are using Bcast and Reduce
+
+in the excel Sheet we are Calculating the runtime, speedup and efficiency for number of processes (2,4,8,16,64)
+making other input constant to be able to find the impact of changing number of
+processes.
